@@ -1,0 +1,6 @@
+{
+  "name": "Remix Stretchy Cat",
+  "description": "Stretch the cat across 5x5 and higher challenge grids, filling every space on the board to reach the finish flag while gathering treats and racing against the clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
